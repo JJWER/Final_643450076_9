@@ -1,0 +1,17 @@
+C:\Users\ASUS\Documents\GitHub\Hello_world\Final__643450076_9\Final__643450076_9\bin\Debug\net6.0-windows\Final__643450076_9.exe
+C:\Users\ASUS\Documents\GitHub\Hello_world\Final__643450076_9\Final__643450076_9\bin\Debug\net6.0-windows\Final__643450076_9.deps.json
+C:\Users\ASUS\Documents\GitHub\Hello_world\Final__643450076_9\Final__643450076_9\bin\Debug\net6.0-windows\Final__643450076_9.runtimeconfig.json
+C:\Users\ASUS\Documents\GitHub\Hello_world\Final__643450076_9\Final__643450076_9\bin\Debug\net6.0-windows\Final__643450076_9.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Final__643450076_9\Final__643450076_9\bin\Debug\net6.0-windows\ref\Final__643450076_9.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Final__643450076_9\Final__643450076_9\bin\Debug\net6.0-windows\Final__643450076_9.pdb
+C:\Users\ASUS\Documents\GitHub\Hello_world\Final__643450076_9\Final__643450076_9\obj\Debug\net6.0-windows\Final__643450076_9.Form1.resources
+C:\Users\ASUS\Documents\GitHub\Hello_world\Final__643450076_9\Final__643450076_9\obj\Debug\net6.0-windows\Final__643450076_9.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Final__643450076_9\Final__643450076_9\obj\Debug\net6.0-windows\Final__643450076_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\GitHub\Hello_world\Final__643450076_9\Final__643450076_9\obj\Debug\net6.0-windows\Final__643450076_9.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Final__643450076_9\Final__643450076_9\obj\Debug\net6.0-windows\Final__643450076_9.AssemblyInfo.cs
+C:\Users\ASUS\Documents\GitHub\Hello_world\Final__643450076_9\Final__643450076_9\obj\Debug\net6.0-windows\Final__643450076_9.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Final__643450076_9\Final__643450076_9\obj\Debug\net6.0-windows\Final__643450076_9.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Final__643450076_9\Final__643450076_9\obj\Debug\net6.0-windows\ref\Final__643450076_9.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Final__643450076_9\Final__643450076_9\obj\Debug\net6.0-windows\Final__643450076_9.pdb
+C:\Users\ASUS\Documents\GitHub\Hello_world\Final__643450076_9\Final__643450076_9\obj\Debug\net6.0-windows\Final__643450076_9.genruntimeconfig.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Final__643450076_9\Final__643450076_9\obj\Debug\net6.0-windows\Final__643450076_9.Form2.resources
